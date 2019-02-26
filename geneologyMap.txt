@@ -1,0 +1,6 @@
+1. Determine how to create personal version of google earth
+2. Determine how to embed personal version of google earth on website
+3. Create google earth data table. Fill table with data from an individual ancestor.
+4. Map movement of an individual ancestor on google earth. 
+5. Fill table with data from all known ancestors
+6. Map movement of all known ancestors. 
